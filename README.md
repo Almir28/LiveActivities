@@ -34,8 +34,8 @@ The app supports three order statuses:
 
 ## Screenshots
 <img src="https://github.com/user-attachments/assets/9a06c7a1-3369-4e35-aa8e-cc3dd23bc216" width="400">
-<img src="https://github.com/user-attachments/assets/d4b5b721-45f3-40c4-9b7d-77b22f1e10ea" width="400">)
-<img src="(https://github.com/user-attachments/assets/65af7de3-1ae2-4a68-a57b-df2a047109a5" width="400">
+<img src="https://github.com/user-attachments/assets/d4b5b721-45f3-40c4-9b7d-77b22f1e10ea" width="400">
+<img src="https://github.com/user-attachments/assets/65af7de3-1ae2-4a68-a57b-df2a047109a5" width="400">
 
 
 
@@ -99,8 +99,8 @@ Feel free to reach out with questions or collaboration ideas:
 ## Скриншоты
 
 <img src="https://github.com/user-attachments/assets/9a06c7a1-3369-4e35-aa8e-cc3dd23bc216" width="400">
-<img src="https://github.com/user-attachments/assets/d4b5b721-45f3-40c4-9b7d-77b22f1e10ea" width="400">)
-<img src="(https://github.com/user-attachments/assets/65af7de3-1ae2-4a68-a57b-df2a047109a5" width="400">
+<img src="https://github.com/user-attachments/assets/d4b5b721-45f3-40c4-9b7d-77b22f1e10ea" width="400">
+<img src="https://github.com/user-attachments/assets/65af7de3-1ae2-4a68-a57b-df2a047109a5" width="400">
 
 
 
