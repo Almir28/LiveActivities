@@ -54,8 +54,8 @@ The app supports three order statuses:
 Feel free to reach out with questions or collaboration ideas:
 
 	•	Email: almir10line@outlook.com
-	•	LinkedIn: Ваш LinkedIn 
-  • Telegram: @almir328
+	•	LinkedIn: 
+  	• 	Telegram: @almir328
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -120,8 +120,8 @@ Feel free to reach out with questions or collaboration ideas:
 Если у вас есть вопросы или идеи для сотрудничества, не стесняйтесь связаться со мной:
 
 	•	Email: almir10line@outlook.com
-	•	LinkedIn: Ваш LinkedIn 
-  • Telegram: @almir328
+	•	LinkedIn: 
+ 	• 	Telegram: @almir328
 
  
  
